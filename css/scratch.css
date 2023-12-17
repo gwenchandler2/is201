@@ -1,0 +1,40 @@
+body{
+    background-image: url(https://garden.spoonflower.com/c/11715592/p/f/m/MLTrAtw-uHrXr218eDs-EG8DAy3925Sbocce8t7OkAya_tpp76xa/Printed%20Solid%20%E2%80%9CCotton%20Candy%E2%80%9D.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+    font-family: 'Comic Sans MS', Georgia, 'Times New Roman', Times, serif
+}
+img{
+    border: 2px solid black;
+    padding: 2px;
+    width: 25%;
+    height: 10%;
+    display: block;
+    margin: auto;
+}
+.centerme{
+    display: block;
+    margin: auto;
+}
+hi{
+    text-align: center;
+}
+
+.common{
+    position: absolute;
+}
+.footer{
+    z-index: 1;
+    position: fixed;
+    bottom: 0px;
+    display: block;
+    text-align: center;
+    background-color: blue;
+}
+.header{
+    top: 0px;
+}
+.mainbody{
+    top: 400px;
+}
